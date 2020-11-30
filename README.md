@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning VueJs, ReactNative, ReactJs
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/luizpaulogroup/) [twitter](https://twitter.com/luizpaulogroup) [instagram](https://www.instagram.com/luizpaulogroup/)
 - 😄 Pronouns: luizin
-- ⚡ Fun fact: I love music eletronic
+- ⚡ Fun fact: Music eletronic
