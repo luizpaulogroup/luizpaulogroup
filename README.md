@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning VueJs.
 - ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲
   ##
-  https://luizpaulogroup.github.io/
+  [My portfolio](https://luizpaulogroup.github.io/)
   ##
 <div> 
   <!-- <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
