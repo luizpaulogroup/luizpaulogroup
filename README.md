@@ -1,8 +1,7 @@
 ### Hi there 👋
   ##
-- 🔭 I’m currently working on  JavaScript, VueJS, NodeJs.
-- 🌱 I’m currently learning VueJs.
-- ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲
+- 🔭 Currently studying full stack web development postgraduate.
+- ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲 && Sports Cars 🚗.
   ##
   [My portfolio](https://luizpaulogroup.github.io/)
   ##
