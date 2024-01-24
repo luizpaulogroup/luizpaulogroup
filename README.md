@@ -1,6 +1,5 @@
 ### Hi there 👋
   ##
-- 📘 Currently studying full stack web development postgraduate.
 - ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲 && Sports Cars 🚗.
   ##
   [My portfolio](https://luizpaulogroup.github.io/)
