@@ -1,6 +1,6 @@
 ### Hi there 👋
   ##
-- ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲 && Sports Cars 🚗.
+- ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲 && Motorcycle 🏍 && Sports Cars 🚗.
   ##
   [My portfolio](https://luizpaulogroup.github.io/)
   ##
