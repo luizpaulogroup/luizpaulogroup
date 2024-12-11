@@ -1,4 +1,3 @@
-### Hi there 👋
   ##
   [My portfolio](https://luizpaulogroup.github.io/)
   ##
